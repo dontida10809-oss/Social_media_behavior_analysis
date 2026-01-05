@@ -130,6 +130,10 @@ Insight & Data Storytelling
 
 - พัฒนา Dashboard ด้วย Power BI หรือ Tableau
 
+## Dashboard จาก Power BI
+<img width="1316" height="740" alt="image" src="https://github.com/user-attachments/assets/4cddd75f-b016-4a28-abb1-44d9cc9f12b7" />
+
+
 ## ผู้จัดทำ (Author)
 
 Dolthida Klakhaeng
